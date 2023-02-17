@@ -1,4 +1,4 @@
-# better-tcp-kk
+# TCP-profile-KK
 This script provides filters for Wireshark. 
 
 # Instructions
