@@ -1,5 +1,5 @@
 # TCP-profile-KK
-This script provides filters for Wireshark. 
+This script provides filters for Wireshark. Thanks to @ramadankrera for suggesting to me that I should give the gift of this script to the world by sharing it on git.
 
 # Instructions
 - Open Wireshark 
